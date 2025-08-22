@@ -1,0 +1,41 @@
+header {
+    background-color: brown;
+    padding: 10px;
+}
+
+body {
+    background-color: wheat;
+    padding: 10px;
+}
+
+h1,
+a {
+    color: bisque;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: right;
+    margin: 10px;
+}
+
+a,
+footer {
+    text-align: center;
+}
+
+p,
+h2,
+li,
+figcaption,
+footer {
+    color: gray;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 10px;
+}
+
+img {
+    border: 10px solid rgb(119, 16, 16);
+    margin: 10px;
+}
+
+a:hover {
+    color: red;
+}
